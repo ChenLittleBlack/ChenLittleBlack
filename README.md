@@ -1,4 +1,4 @@
-<img alt="ChenLittleBlack's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ChenLittleBlack&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" style="float: right;" />
+<img alt="ChenLittleBlack's GitHub Stats" align="right" src="https://github-readme-stats.vercel.app/api?username=ChenLittleBlack&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 
 ### Hello World 👋
