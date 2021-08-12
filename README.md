@@ -3,22 +3,15 @@
 
 ### Hello World 👋
 
-- :orange_book: Focusing on Swift & iOS
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
-
-<!--
 **ChenLittleBlack/ChenLittleBlack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on LittleDarkRoom
+- 🌱 I’m currently learning qx
+- 👯 I’m looking to collaborate on jvav
+- 🤔 I’m looking for help with jvav
+- 💬 Ask me about java
+- 📫 How to reach me: 191714375
+- 😄 Pronouns: ChenLittleBlack
+- ⚡ Fun fact: ChenLittleBlack
