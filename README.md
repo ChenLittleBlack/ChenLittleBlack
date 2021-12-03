@@ -10,7 +10,7 @@
 </td>
 </tr>
 <tr>
-<td style="vertical-align: middle;width: 50%;">
+<td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
 * <a href='http://www.zhihu.com/question/503276127/answer/2254331660?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如何看待中国游戏公司在海外成立工作室，招募海外AAA人才？</a> - Fri, 03 Dec 2021 15:17:13 +0800
@@ -21,7 +21,7 @@
 <!-- END_SECTION:blog -->
 
 </td>
-<td style="vertical-align: middle;width: 50%;">
+<td valign="middle" width="50%">
 
 <!-- START_SECTION:douban -->
 
