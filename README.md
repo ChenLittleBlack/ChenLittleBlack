@@ -13,11 +13,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
+* <a href='http://www.zhihu.com/question/473989542/answer/2413445609?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>汽车的 OTA 功能，真的能让车「常用常新」吗？</a> - Wed, 30 Mar 2022 15:20:06 +0800
 * <a href='http://www.zhihu.com/question/524277410/answer/2413636802?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>《进击的巨人》到底有多少地鸣巨人？</a> - 
 * <a href='http://www.zhihu.com/question/284031072/answer/2413504350?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如何评论《三国杀》这款游戏？</a> - 
 * <a href='http://www.zhihu.com/question/522725234/answer/2411996108?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>三国杀对武将的设计应该多侧重于旧武将的突破，还是新武将的出品？</a> - 
 * <a href='http://www.zhihu.com/question/524567704/answer/2412233925?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>《Sky 光·遇》宣布动画化，首支预告 PV 公开，你有什么想说的？</a> - 
-* <a href='http://zhuanlan.zhihu.com/p/489137798?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>换人就能行吗？表面看是业务问题，实际上是组织问题 | 写在凌晨1点的读书笔记No.03</a> - Mon, 28 Mar 2022 22:37:47 +0800
 <!-- END_SECTION:blog -->
 
 </td>
