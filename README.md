@@ -13,11 +13,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
+* <a href='http://www.zhihu.com/question/462757332/answer/2650888340?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>目前主流车企都使用的哪些车机芯片和智能驾驶芯片？</a> - Mon, 29 Aug 2022 20:33:10 +0800
+* <a href='http://www.zhihu.com/question/401680193/answer/2651174790?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>自动驾驶大时代智能座舱会有什么样新的发展趋势？</a> - Mon, 29 Aug 2022 20:32:49 +0800
+* <a href='http://www.zhihu.com/question/515185119/answer/2651191979?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>在未来，终极智能座舱应该是什么样的？</a> - Mon, 29 Aug 2022 20:31:59 +0800
 * <a href='http://www.zhihu.com/question/545531331/answer/2596182125?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>95 后女生因染粉红色头发被网暴，当事人称生活受到严重影响，准备起诉网暴者，如何看待此事？</a> - Sun, 28 Aug 2022 23:26:06 +0800
 * <a href='http://www.zhihu.com/question/20969272/answer/2648078614?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>为什么吃东西时会感觉第一口最好吃？</a> - Sat, 27 Aug 2022 23:58:39 +0800
-* <a href='http://www.zhihu.com/question/549659151/answer/2645020171?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如何评价大宇出品的中式惊悚游戏《女鬼桥 开魂路》？</a> - Fri, 26 Aug 2022 12:22:45 +0800
-* <a href='http://www.zhihu.com/question/35839533/answer/1039918399?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>什么是行为金融学，这门学科的支柱理论是什么？</a> - 
-* <a href='http://www.zhihu.com/question/26481374/answer/2644128970?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>玩真人密室逃脱有什么诀窍吗？</a> - 
 <!-- END_SECTION:blog -->
 
 </td>
