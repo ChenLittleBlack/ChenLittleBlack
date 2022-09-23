@@ -13,11 +13,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
+* <a href='http://www.zhihu.com/question/338882903/answer/2684497936?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>汽车轮胎品牌那么多，该怎样选？</a> - 
 * <a href='http://zhuanlan.zhihu.com/p/74874291?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>【机器学习】逻辑回归（非常详细）</a> - Wed, 21 Sep 2022 19:57:22 +0800
 * <a href='http://zhuanlan.zhihu.com/p/566481472?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>融资到底谁说了算</a> - Wed, 21 Sep 2022 10:59:31 +0800
 * <a href='http://www.zhihu.com/question/514831350/answer/2608048228?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如何评价鹤戾申创作的国产漫画《画漫画太难了》？</a> - Wed, 21 Sep 2022 10:32:55 +0800
 * <a href='http://www.zhihu.com/question/552123306/answer/2677356072?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>电动汽车的生命周期比燃油车的要更长吗？</a> - 
-* <a href='http://www.zhihu.com/question/294651406/answer/2675285214?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>巴西的很多汽车是烧酒精的，为什么国内不可以效仿他们去造酒精汽车呢？</a> - 
 <!-- END_SECTION:blog -->
 
 </td>
