@@ -13,11 +13,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
+* <a href='http://www.zhihu.com/question/264825623/answer/2687447623?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如何看待国内经济学研究中reduced form的应用微观实证研究泛滥？</a> - 
+* <a href='http://www.zhihu.com/question/27521281/answer/2691526918?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>对于现在欧元暴跌成美元这个事件，大家有什么看法吗？</a> - 
+* <a href='http://www.zhihu.com/question/546343871/answer/2692019428?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>适量喝咖啡对身体有哪些好处？</a> - 
 * <a href='http://zhuanlan.zhihu.com/p/568411385?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>日本式的“深刻”----1995版《攻壳机动队》</a> - Wed, 28 Sep 2022 18:38:54 +0800
 * <a href='http://www.zhihu.com/question/555030440/answer/2690525820?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>美联储大放水是在收割全世界，现在加息又是收割全世界，为什么他一直在赢，这其中有什么经济学原理吗?</a> - 
-* <a href='http://www.zhihu.com/question/486469860/answer/2690429038?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>你有没有穿了 10 年以上的衣服还是很喜欢，舍不得丢它？</a> - 
-* <a href='http://www.zhihu.com/question/471889503/answer/2689267420?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>从专业的角度来说，买电车还是油车还是混动好？</a> - Mon, 26 Sep 2022 10:33:17 +0800
-* <a href='http://www.zhihu.com/question/555159612/answer/2686421336?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如果让你设计十年后的家，你觉得会长成什么样子？</a> - Fri, 23 Sep 2022 15:50:44 +0800
 <!-- END_SECTION:blog -->
 
 </td>
