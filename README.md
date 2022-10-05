@@ -13,11 +13,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
+* <a href='http://zhuanlan.zhihu.com/p/570522549?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>你错了，爱因斯坦先生！【诺贝尔物理学奖预测——贝尔不等式】</a> - 
+* <a href='http://www.zhihu.com/question/36037775/answer/2701248853?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>你觉得你离诺贝尔奖最近的一刻是什么时候？</a> - 
 * <a href='http://www.zhihu.com/question/264825623/answer/2687447623?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如何看待国内经济学研究中reduced form的应用微观实证研究泛滥？</a> - 
 * <a href='http://www.zhihu.com/question/27521281/answer/2691526918?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>对于现在欧元暴跌成美元这个事件，大家有什么看法吗？</a> - 
 * <a href='http://www.zhihu.com/question/546343871/answer/2692019428?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>适量喝咖啡对身体有哪些好处？</a> - 
-* <a href='http://zhuanlan.zhihu.com/p/568411385?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>日本式的“深刻”----1995版《攻壳机动队》</a> - Wed, 28 Sep 2022 18:38:54 +0800
-* <a href='http://www.zhihu.com/question/555030440/answer/2690525820?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>美联储大放水是在收割全世界，现在加息又是收割全世界，为什么他一直在赢，这其中有什么经济学原理吗?</a> - 
 <!-- END_SECTION:blog -->
 
 </td>
