@@ -13,11 +13,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
+* <a href='http://www.zhihu.com/question/557579391/answer/2700486345?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如何评价《英雄联盟》S13 季前赛改动前瞻？</a> - Sat, 08 Oct 2022 18:21:15 +0800
+* <a href='http://www.zhihu.com/question/551231716/answer/2705219750?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>2022年，游戏行业目前现状如何？将会发生哪些变化？</a> - Sat, 08 Oct 2022 12:46:01 +0800
 * <a href='http://www.zhihu.com/question/557810306/answer/2702654423?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>2022 年诺贝尔化学奖授予点击化学和生物正交化学，夏普莱斯第二次获奖，有哪些信息值得关注？</a> - 
 * <a href='http://zhuanlan.zhihu.com/p/570522549?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>你错了，爱因斯坦先生！【诺贝尔物理学奖预测——贝尔不等式】</a> - 
 * <a href='http://www.zhihu.com/question/36037775/answer/2701248853?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>你觉得你离诺贝尔奖最近的一刻是什么时候？</a> - 
-* <a href='http://www.zhihu.com/question/264825623/answer/2687447623?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如何看待国内经济学研究中reduced form的应用微观实证研究泛滥？</a> - 
-* <a href='http://www.zhihu.com/question/27521281/answer/2691526918?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>对于现在欧元暴跌成美元这个事件，大家有什么看法吗？</a> - 
 <!-- END_SECTION:blog -->
 
 </td>
