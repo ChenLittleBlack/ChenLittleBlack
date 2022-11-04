@@ -13,11 +13,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
+* <a href='http://www.zhihu.com/question/561890839/answer/2740412975?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如何评价《明日方舟》新活动叙拉古人？</a> - 
+* <a href='http://www.zhihu.com/question/562740275/answer/2741348426?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如何评价国产 AVG 游戏《恋爱绮谭~不存在的真相~》？</a> - 
 * <a href='http://zhuanlan.zhihu.com/p/579035072?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>“我们”的现实正蠢蠢欲动——二十一世纪 10 年代日本动画电影关于“真实”的转向考察</a> - Wed, 02 Nov 2022 13:55:10 +0800
 * <a href='http://zhuanlan.zhihu.com/p/404773708?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>叙事剧情游戏体验的反思</a> - 
 * <a href='http://zhuanlan.zhihu.com/p/407965203?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>从《摩尔庄园》手游看美术问题</a> - 
-* <a href='http://zhuanlan.zhihu.com/p/498585928?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>关卡美术与灯光对于游戏体验的影响</a> - 
-* <a href='http://zhuanlan.zhihu.com/p/431188358?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>从《动物派对》看美术风格</a> - 
 <!-- END_SECTION:blog -->
 
 </td>
