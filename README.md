@@ -13,11 +13,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
+* <a href='http://www.zhihu.com/question/568216667/answer/2772809995?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>卡塔尔世界杯多场比赛上演「毫米级越位」，阿根廷对沙特越位数多达7次，裁判技术进步如何影响足球运动发展？</a> - 
+* <a href='http://zhuanlan.zhihu.com/p/586336587?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>关于VAR的系统讨论（3）VAR如何改进？</a> - 
+* <a href='http://www.zhihu.com/question/568554764/answer/2772800790?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>日本队世界杯爆冷战胜德国，《足球小将》剧情走进现实，如何看待这部漫画对日本足球发展的影响？</a> - 
+* <a href='http://www.zhihu.com/question/568554764/answer/2773087608?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>日本队世界杯爆冷战胜德国，《足球小将》剧情走进现实，如何看待这部漫画对日本足球发展的影响？</a> - 
 * <a href='http://www.zhihu.com/question/568414222/answer/2771830013?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>2022 卡塔尔世界杯小组赛德国爆冷 1:2 不敌日本，如何评价本场比赛？</a> - 
-* <a href='http://www.zhihu.com/question/568341015/answer/2771198945?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>同一天中梅西输球、C 罗「失业」，诸神的黄昏真的到来了吗？</a> - Wed, 23 Nov 2022 18:23:41 +0800
-* <a href='http://zhuanlan.zhihu.com/p/585421585?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>山田尚子监督于伦敦·有关新作与旧作的访谈</a> - 
-* <a href='http://www.zhihu.com/question/374206610/answer/2769600826?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>有关于人文社科类的让人看了就放不下的超赞书籍推荐吗？</a> - 
-* <a href='http://www.zhihu.com/question/497122453/answer/2738463953?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>有没有追妻火葬场但破镜没重圆的故事？</a> - 
 <!-- END_SECTION:blog -->
 
 </td>
