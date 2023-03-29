@@ -23,7 +23,7 @@
 
 <img alt="profile-trophy" src="https://github-profile-trophy.vercel.app/?username=ChenLittleBlack&theme=algolia&column=-1" />
 
-[![activity-graph](https://activity-graph.herokuapp.com/graph?username=ChenLittleBlack&theme=github)](https://activity-graph.herokuapp.com/graph?username=ChenLittleBlack&theme=github)
+<img alt="activity-graph" src="https://activity-graph.herokuapp.com/graph?username=ChenLittleBlack&theme=github" />
 
 </div>
 
