@@ -10,9 +10,11 @@
 
 </div>
 
+
 ## 今年汇总 ✨
 
 <details open>
+
 <summary>给我康康</summary>
 
 <div align="center">
@@ -24,9 +26,17 @@
 [![activity-graph](https://activity-graph.herokuapp.com/graph?username=ChenLittleBlack&theme=github)](https://activity-graph.herokuapp.com/graph?username=ChenLittleBlack&theme=github)
 
 </div>
+
 </details>
 
+
 ## 知乎热榜 🔥
+
+<details open>
+
+<summary>给我康康</summary>
+
+<div align="center">
 
 <table style="height: 300px;">
 <tr>
@@ -43,3 +53,6 @@
 </td>
 </tr>
 </table>
+
+</div>
+</details>
