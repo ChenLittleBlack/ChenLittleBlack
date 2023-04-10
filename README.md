@@ -45,7 +45,7 @@
 <!-- START_SECTION:blog -->
 * <a href='http://zhuanlan.zhihu.com/p/620167841?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>创作者请回答｜米花：从封笔三年到写出 9.9 分神作《胤都异妖录》，她要为中国妖怪正名</a> - Fri, 07 Apr 2023 17:33:37 +0800
 * <a href='http://zhuanlan.zhihu.com/p/619618591?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>SIFU师父：弱者报复，强者宽恕，智者忽略</a> - 
-* <a href='http://zhuanlan.zhihu.com/p/619705261?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>卧龙-关卡拆解（文章写作中暂未完成）</a> - 
+* <a href='http://zhuanlan.zhihu.com/p/619705261?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>卧龙-关卡拆解</a> - 
 * <a href='http://www.zhihu.com/question/20285657/answer/2963446768?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>馒头、面包为什么会有「皮」？</a> - 
 * <a href='http://zhuanlan.zhihu.com/p/330251297?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>浅谈中日两国之间的历史渊源</a> - Mon, 03 Apr 2023 17:55:22 +0800
 <!-- END_SECTION:blog -->
