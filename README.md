@@ -43,11 +43,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
+* <a href='http://www.zhihu.com/question/323060216/answer/3066812400?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>高考志愿填报，对于许多专业一无所知，该怎么办?</a> - 
+* <a href='http://zhuanlan.zhihu.com/p/636603672?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>「全面升级」 AMD 7840HS 迷你主机 零刻 GTR7 深度测试</a> - 
 * <a href='http://zhuanlan.zhihu.com/p/636061020?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>高颜值，又好玩 - Keychron Q1 Pro客制化机械键盘</a> - Mon, 12 Jun 2023 11:50:32 +0800
 * <a href='http://zhuanlan.zhihu.com/p/635870824?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>显卡评测第38期｜华硕RTX 4060 TI：两千五交个朋友？</a> - Mon, 12 Jun 2023 11:43:53 +0800
 * <a href='http://zhuanlan.zhihu.com/p/635186906?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>聊聊苹果历史上的23个One More Thing 时刻</a> - Mon, 12 Jun 2023 11:24:07 +0800
-* <a href='http://zhuanlan.zhihu.com/p/560500814?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>这篇文章带你玩转AI绘画</a> - Fri, 09 Jun 2023 14:50:46 +0800
-* <a href='http://www.zhihu.com/question/605482620/answer/3064822672?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>国产武侠动画《镖人》第 3 - 4集播出，有哪些关注点？</a> - 
 <!-- END_SECTION:blog -->
 
 </td>
