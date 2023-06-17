@@ -43,11 +43,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
+* <a href='http://zhuanlan.zhihu.com/p/620631150?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>【VALSE 2023】走向计算机视觉的通用人工智能：GPT和大语言模型带来的启发</a> - Fri, 16 Jun 2023 11:19:30 +0800
 * <a href='http://www.zhihu.com/question/598593472/answer/3020473909?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>新能源汽车时代技术更重要还是品牌更重要？</a> - Wed, 14 Jun 2023 18:39:59 +0800
 * <a href='http://zhuanlan.zhihu.com/p/636775891?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>谈谈什么才是“真正”的AR眼镜，2023如何选购一款能够真正出街的AR眼镜？拒绝智商税！</a> - Wed, 14 Jun 2023 09:23:27 +0800
 * <a href='http://www.zhihu.com/question/323060216/answer/3066812400?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>高考志愿填报，对于许多专业一无所知，该怎么办?</a> - 
 * <a href='http://zhuanlan.zhihu.com/p/636603672?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>「全面升级」 AMD 7840HS 迷你主机 零刻 GTR7 深度测试</a> - 
-* <a href='http://zhuanlan.zhihu.com/p/636061020?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>高颜值，又好玩 - Keychron Q1 Pro客制化机械键盘</a> - Mon, 12 Jun 2023 11:50:32 +0800
 <!-- END_SECTION:blog -->
 
 </td>
