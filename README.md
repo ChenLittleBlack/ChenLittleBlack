@@ -43,11 +43,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
+* <a href='http://zhuanlan.zhihu.com/p/643211512?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>喜羊羊与灰太狼之遨游神秘洋 文章归档1-30集</a> - 
 * <a href='http://zhuanlan.zhihu.com/p/582285853?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>华为云提出盘古气象大模型：中长期气象预报精度首次超过传统数值方法，速度提升10000倍以上</a> - Fri, 07 Jul 2023 18:53:26 +0800
 * <a href='http://zhuanlan.zhihu.com/p/641851617?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>登上Nature正刊、欧洲气象中心背书、轻量级方案发布：盘古气象大模型后续进展综述</a> - Fri, 07 Jul 2023 18:51:58 +0800
 * <a href='http://zhuanlan.zhihu.com/p/642041260?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>Profile8.1才是最佳？一篇文章搞懂所有杜比视界格式</a> - Fri, 07 Jul 2023 17:57:39 +0800
 * <a href='http://zhuanlan.zhihu.com/p/641894014?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>谁动了我的显存？——深度学习训练过程显存占用分析及优化</a> - 
-* <a href='http://www.zhihu.com/question/561413213/answer/3096010395?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>北京有哪些值得一逛的胡同？</a> - Fri, 30 Jun 2023 13:48:23 +0800
 <!-- END_SECTION:blog -->
 
 </td>
