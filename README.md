@@ -43,11 +43,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
+* <a href='http://zhuanlan.zhihu.com/p/609359999?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如何使用 Embedding 提升回答质量？</a> - 
+* <a href='http://www.zhihu.com/question/612331393/answer/3126990581?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>《封神第一部》中有哪些看似不经意但很重要的细节?</a> - 
+* <a href='http://zhuanlan.zhihu.com/p/580901767?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>国产三无软尾诞生记</a> - 
 * <a href='http://www.zhihu.com/question/612906040/answer/3125991677?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如何评价《封神第一部》重建中国电影工业化体系？</a> - Wed, 19 Jul 2023 23:45:15 +0800
 * <a href='http://zhuanlan.zhihu.com/p/644075669?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>初入职场，请多关照！</a> - Wed, 19 Jul 2023 12:03:03 +0800
-* <a href='http://www.zhihu.com/question/591800957/answer/2962363216?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>山地车当前牙盘使用单盘且越来越小的趋势，是否为厂商故意营销的消费认知？</a> - 
-* <a href='http://www.zhihu.com/question/545919128/answer/2619836925?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>一个人要怎么训练才能骑行速度达到均速 40km/h 以上？</a> - 
-* <a href='http://zhuanlan.zhihu.com/p/643211512?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>喜羊羊与灰太狼之遨游神秘洋 文章归档1-30集</a> - 
 <!-- END_SECTION:blog -->
 
 </td>
