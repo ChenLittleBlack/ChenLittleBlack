@@ -43,11 +43,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
-* <a href='http://zhuanlan.zhihu.com/p/623213529?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>回溯算法DFS && BFS算法</a> - 
-* <a href='http://zhuanlan.zhihu.com/p/623830678?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>数据结构-树及相关算法</a> - 
-* <a href='http://www.zhihu.com/question/271697398/answer/3109730055?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>长期跑步的人，后来都怎么样了？</a> - 
-* <a href='http://www.zhihu.com/question/271697398/answer/2398388054?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>长期跑步的人，后来都怎么样了？</a> - 
-* <a href='http://zhuanlan.zhihu.com/p/623834697?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>数据结构-链表及相关算法</a> - 
+* <a href='http://zhuanlan.zhihu.com/p/617626496?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>值得苦练的100道Python经典练手题，（附详细答案）建议收藏！</a> - Fri, 28 Jul 2023 15:19:20 +0800
+* <a href='http://zhuanlan.zhihu.com/p/612782776?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>分享几个常用的运维 shell 脚本</a> - Fri, 28 Jul 2023 15:15:06 +0800
+* <a href='http://www.zhihu.com/question/502471127/answer/2478652654?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>怎么刷算法，leetcode上有哪些经典题目?</a> - Fri, 28 Jul 2023 15:14:25 +0800
+* <a href='http://www.zhihu.com/question/502471127/answer/2639174632?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>怎么刷算法，leetcode上有哪些经典题目?</a> - Fri, 28 Jul 2023 15:00:40 +0800
+* <a href='http://www.zhihu.com/question/502471127/answer/2268431201?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>怎么刷算法，leetcode上有哪些经典题目?</a> - Fri, 28 Jul 2023 14:00:30 +0800
 <!-- END_SECTION:blog -->
 
 </td>
