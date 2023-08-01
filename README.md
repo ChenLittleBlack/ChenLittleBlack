@@ -43,11 +43,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
+* <a href='http://www.zhihu.com/question/320885390/answer/3137858776?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>新人有哪些途径可以开始导演职业生涯？</a> - Mon, 31 Jul 2023 19:15:52 +0800
+* <a href='http://zhuanlan.zhihu.com/p/644827175?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>大模型训练和进化之路｜AI 盐沙龙实录</a> - Mon, 31 Jul 2023 16:50:49 +0800
+* <a href='http://www.zhihu.com/question/27374212/answer/3142510532?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>故事创作设置悬念时有什么技巧？</a> - Mon, 31 Jul 2023 12:17:36 +0800
 * <a href='http://zhuanlan.zhihu.com/p/617626496?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>值得苦练的100道Python经典练手题，（附详细答案）建议收藏！</a> - Fri, 28 Jul 2023 15:19:20 +0800
 * <a href='http://zhuanlan.zhihu.com/p/612782776?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>分享几个常用的运维 shell 脚本</a> - Fri, 28 Jul 2023 15:15:06 +0800
-* <a href='http://www.zhihu.com/question/502471127/answer/2478652654?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>怎么刷算法，leetcode上有哪些经典题目?</a> - Fri, 28 Jul 2023 15:14:25 +0800
-* <a href='http://www.zhihu.com/question/502471127/answer/2639174632?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>怎么刷算法，leetcode上有哪些经典题目?</a> - Fri, 28 Jul 2023 15:00:40 +0800
-* <a href='http://www.zhihu.com/question/502471127/answer/2268431201?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>怎么刷算法，leetcode上有哪些经典题目?</a> - Fri, 28 Jul 2023 14:00:30 +0800
 <!-- END_SECTION:blog -->
 
 </td>
