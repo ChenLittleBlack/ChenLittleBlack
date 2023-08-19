@@ -43,11 +43,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
+* <a href='http://www.zhihu.com/question/617378870/answer/3168319328?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>云南提出进一步扩大「会泽模式」示范效应，如何看待这种「苦读」模式？将如何影响云南的教育生态？</a> - Fri, 18 Aug 2023 11:45:50 +0800
 * <a href='http://zhuanlan.zhihu.com/p/650452280?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>有奖创作：新职人副业研究所</a> - Wed, 16 Aug 2023 18:40:24 +0800
 * <a href='http://www.zhihu.com/question/613685076/answer/3139928869?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>厨房如何装修才能尽可能地做到「去家务化」？</a> - 
 * <a href='http://www.zhihu.com/question/613685051/answer/3145598134?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>为什么说有些年轻人做饭是「差生文具多」？</a> - 
 * <a href='http://www.zhihu.com/question/47436256/answer/2475876541?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>你读过的最有力量的一段文字是什么？</a> - 
-* <a href='http://zhuanlan.zhihu.com/p/518094607?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>你读过的最有力量的一段文字是什么？</a> - 
 <!-- END_SECTION:blog -->
 
 </td>
