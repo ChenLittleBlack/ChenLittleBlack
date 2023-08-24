@@ -43,11 +43,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
-* <a href='http://www.zhihu.com/question/41697934/answer/3125073700?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>有哪些你看一眼就终生不能忘的恐怖图片？</a> - 
+* <a href='http://www.zhihu.com/question/384673958/answer/3073350200?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>请问您见过最惊艳的sql查询语句是什么？</a> - Wed, 23 Aug 2023 15:58:00 +0800
+* <a href='http://www.zhihu.com/question/359026457/answer/2827751833?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>网易云里的哪些热评，一瞬间就击中了你？</a> - Wed, 23 Aug 2023 14:27:53 +0800
 * <a href='http://www.zhihu.com/question/312691334/answer/3177079512?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>大家如何看待新能源汽车的前景和中国汽车下一步的发展方向？</a> - 
 * <a href='http://www.zhihu.com/question/598845159/answer/3177079526?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>比亚迪特斯拉：胜负已分，2023年了不再讨论新能源汽车技术路线了？</a> - 
 * <a href='http://www.zhihu.com/question/384519755/answer/3177079534?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>国产车真的适合做高端品牌吗？</a> - 
-* <a href='http://www.zhihu.com/question/313846030/answer/3175451616?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>刚毕业的新人想进入汽车行业工作，有哪些需要准备的？</a> - 
 <!-- END_SECTION:blog -->
 
 </td>
