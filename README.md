@@ -43,11 +43,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
+* <a href='http://www.zhihu.com/question/626821953/answer/3282656426?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如何低成本打造「百变客厅」，从家庭影院到书房一键切换？</a> - 
+* <a href='http://zhuanlan.zhihu.com/p/662704254?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>Chat 向左，Agent 向右</a> - 
+* <a href='http://www.zhihu.com/question/627399564/answer/3282119431?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>新职人生活中，该如何利用智能家居打造一个「会呼吸的家」？</a> - 
 * <a href='http://www.zhihu.com/question/626821953/answer/3269845936?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如何低成本打造「百变客厅」，从家庭影院到书房一键切换？</a> - Wed, 08 Nov 2023 16:47:18 +0800
 * <a href='http://www.zhihu.com/question/490572454/answer/3278881047?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>中国古代建筑有哪些建筑思想和人文情怀？</a> - Mon, 06 Nov 2023 17:55:59 +0800
-* <a href='http://www.zhihu.com/question/22399766/answer/27505444?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>为什么有的化妆品要添加酒精？</a> - Mon, 06 Nov 2023 10:20:54 +0800
-* <a href='http://www.zhihu.com/question/608996177/answer/3269525148?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>汉朝普通人的一天是怎么样的？</a> - Wed, 01 Nov 2023 12:45:58 +0800
-* <a href='http://www.zhihu.com/question/627743115/answer/3266813181?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>多动症（ADHD）人士的一生到底有多「苦」？能分享一段「最令你难忘」的经历吗？</a> - Mon, 30 Oct 2023 20:08:14 +0800
 <!-- END_SECTION:blog -->
 
 </td>
