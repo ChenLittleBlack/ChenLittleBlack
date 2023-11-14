@@ -43,11 +43,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
-* <a href='http://zhuanlan.zhihu.com/p/636270877?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>【LLM】从零开始训练大模型</a> - Fri, 10 Nov 2023 22:32:52 +0800
-* <a href='http://www.zhihu.com/question/626821953/answer/3282656426?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如何低成本打造「百变客厅」，从家庭影院到书房一键切换？</a> - 
-* <a href='http://zhuanlan.zhihu.com/p/662704254?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>Chat 向左，Agent 向右</a> - 
-* <a href='http://www.zhihu.com/question/627399564/answer/3282119431?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>新职人生活中，该如何利用智能家居打造一个「会呼吸的家」？</a> - 
-* <a href='http://www.zhihu.com/question/626821953/answer/3269845936?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如何低成本打造「百变客厅」，从家庭影院到书房一键切换？</a> - Wed, 08 Nov 2023 16:47:18 +0800
+* <a href='http://zhuanlan.zhihu.com/p/666640133?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>有奖活动 | 职场人，你心霾了吗</a> - Mon, 13 Nov 2023 20:11:44 +0800
+* <a href='http://zhuanlan.zhihu.com/p/654924503?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>浅谈西方美术史</a> - Mon, 13 Nov 2023 19:30:18 +0800
+* <a href='http://www.zhihu.com/question/24821237/answer/3282834959?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>建筑史上出现过的重大失误有哪些？</a> - Mon, 13 Nov 2023 18:32:04 +0800
+* <a href='http://www.zhihu.com/question/441612665/answer/3284871191?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>为什么说 3nm 是现在芯片制程的天花板？</a> - Mon, 13 Nov 2023 13:59:02 +0800
+* <a href='http://www.zhihu.com/question/37684218/answer/3287095547?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>你知道有哪些非常好但是未建成的建筑方案？</a> - Mon, 13 Nov 2023 13:58:34 +0800
 <!-- END_SECTION:blog -->
 
 </td>
