@@ -43,11 +43,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
-* <a href='http://www.zhihu.com/question/631689980/answer/3301104438?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如果让你在相册里评出 2023 年有关自己的四张年度照片，每个季度各一张，你会选哪四张呢？</a> - Fri, 24 Nov 2023 17:49:52 +0800
 * <a href='http://www.zhihu.com/question/21491409/answer/3294184079?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>有没有一个永久储存数据的地方？</a> - Mon, 20 Nov 2023 11:09:56 +0800
 * <a href='http://www.zhihu.com/question/619746650/answer/3193808841?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如果三国演义中的人物同一个姓的为一个势力，哪几个姓有可能统一天下?</a> - Wed, 15 Nov 2023 12:31:03 +0800
 * <a href='http://www.zhihu.com/question/411106731/answer/3285596118?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如果珠穆朗玛峰矗立在平原中或者城市中是什么画面呢？</a> - Wed, 15 Nov 2023 11:38:18 +0800
 * <a href='http://zhuanlan.zhihu.com/p/666199224?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>《城市天际线2》初步感受，兼对于模拟城市类游戏的思考</a> - 
+* <a href='http://zhuanlan.zhihu.com/p/660146514?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>塞尔达：旷野之息游戏分析</a> - 
 <!-- END_SECTION:blog -->
 
 </td>
