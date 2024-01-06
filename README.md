@@ -43,11 +43,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
+* <a href='http://www.zhihu.com/question/637086345/answer/3351086477?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>小米汽车的动力电池有哪些技术创新？很安全吗？</a> - Fri, 05 Jan 2024 17:33:04 +0800
 * <a href='http://zhuanlan.zhihu.com/p/675678012?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>2024 汽车福利活动汇总（持续更新 | 最新1月）</a> - 
 * <a href='http://www.zhihu.com/question/637238460/answer/3344716232?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>小米首款汽车 SU7 搭载的核心部件及技术是否先进？有哪些值得关注的点？</a> - Mon, 01 Jan 2024 00:15:10 +0800
 * <a href='http://www.zhihu.com/question/637226339/answer/3344345015?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>中国全年汽车出口超越日本已成定局，将首登世界第一，导致汽车行业竞争格局变化的原因是什么？</a> - Sun, 31 Dec 2023 09:41:56 +0800
 * <a href='http://www.zhihu.com/question/636103860/answer/3342499162?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如何看待苏晓晔在《洞见对谈》里称「预防大于治疗，关注疾病不如关注健康」？</a> - Fri, 29 Dec 2023 11:08:09 +0800
-* <a href='http://www.zhihu.com/question/636101295/answer/3342060395?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如何看待张小北在《洞见对谈》里称「科幻从不负责预言未来，它让我们相信一种未来」？</a> - Fri, 29 Dec 2023 11:07:46 +0800
 <!-- END_SECTION:blog -->
 
 </td>
