@@ -43,11 +43,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
+* <a href='http://zhuanlan.zhihu.com/p/676436144?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>安全的本质：大模型能否被严谨解释为符号逻辑？｜知乎先行者沙龙分享</a> - 
+* <a href='http://zhuanlan.zhihu.com/p/676874333?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>大模型行业如何持续发展（知乎AI先行者沙龙）</a> - 
 * <a href='http://zhuanlan.zhihu.com/p/676204647?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>见证者中的数学原理</a> - Mon, 08 Jan 2024 14:33:25 +0800
 * <a href='http://www.zhihu.com/question/637090808/answer/3354166358?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>神经网络能否被严谨地解释为符号逻辑？</a> - Mon, 08 Jan 2024 12:50:13 +0800
 * <a href='http://www.zhihu.com/question/637086345/answer/3351086477?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>小米汽车的动力电池有哪些技术创新？很安全吗？</a> - Fri, 05 Jan 2024 17:33:04 +0800
-* <a href='http://zhuanlan.zhihu.com/p/675678012?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>2024 汽车福利活动汇总（持续更新 | 最新1月）</a> - 
-* <a href='http://www.zhihu.com/question/637238460/answer/3344716232?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>小米首款汽车 SU7 搭载的核心部件及技术是否先进？有哪些值得关注的点？</a> - Mon, 01 Jan 2024 00:15:10 +0800
 <!-- END_SECTION:blog -->
 
 </td>
