@@ -43,11 +43,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
+* <a href='http://zhuanlan.zhihu.com/p/676903031?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>AI 落地进行时，让创新真正触手可及｜AI 先行者沙龙圆桌实录</a> - Wed, 10 Jan 2024 14:33:59 +0800
+* <a href='http://zhuanlan.zhihu.com/p/676902538?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>「百模大战」之后，预见行业新生态｜AI 先行者沙龙圆桌实录</a> - Wed, 10 Jan 2024 14:33:36 +0800
 * <a href='http://zhuanlan.zhihu.com/p/676436144?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>安全的本质：大模型能否被严谨解释为符号逻辑？｜知乎先行者沙龙分享</a> - 
 * <a href='http://zhuanlan.zhihu.com/p/676874333?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>大模型行业如何持续发展（知乎AI先行者沙龙）</a> - 
 * <a href='http://zhuanlan.zhihu.com/p/676204647?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>见证者中的数学原理</a> - Mon, 08 Jan 2024 14:33:25 +0800
-* <a href='http://www.zhihu.com/question/637090808/answer/3354166358?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>神经网络能否被严谨地解释为符号逻辑？</a> - Mon, 08 Jan 2024 12:50:13 +0800
-* <a href='http://www.zhihu.com/question/637086345/answer/3351086477?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>小米汽车的动力电池有哪些技术创新？很安全吗？</a> - Fri, 05 Jan 2024 17:33:04 +0800
 <!-- END_SECTION:blog -->
 
 </td>
