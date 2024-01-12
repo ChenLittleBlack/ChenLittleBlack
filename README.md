@@ -43,11 +43,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
+* <a href='http://zhuanlan.zhihu.com/p/677289659?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>持家之眼扛把子——枪神8 Plus超竞版简评</a> - 
+* <a href='http://www.zhihu.com/question/449782036/answer/1791223243?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>十八世纪帆船横渡大西洋大约要多久？</a> - 
+* <a href='http://www.zhihu.com/question/595400867/answer/3345603175?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>未来海平面上升 70 米会对全球产生什么影响？</a> - 
 * <a href='http://zhuanlan.zhihu.com/p/676903031?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>AI 落地进行时，让创新真正触手可及｜AI 先行者沙龙圆桌实录</a> - Wed, 10 Jan 2024 14:33:59 +0800
 * <a href='http://zhuanlan.zhihu.com/p/676902538?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>「百模大战」之后，预见行业新生态｜AI 先行者沙龙圆桌实录</a> - Wed, 10 Jan 2024 14:33:36 +0800
-* <a href='http://zhuanlan.zhihu.com/p/676436144?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>安全的本质：大模型能否被严谨解释为符号逻辑？｜知乎先行者沙龙分享</a> - 
-* <a href='http://zhuanlan.zhihu.com/p/676874333?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>大模型行业如何持续发展（知乎AI先行者沙龙）</a> - 
-* <a href='http://zhuanlan.zhihu.com/p/676204647?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>见证者中的数学原理</a> - Mon, 08 Jan 2024 14:33:25 +0800
 <!-- END_SECTION:blog -->
 
 </td>
