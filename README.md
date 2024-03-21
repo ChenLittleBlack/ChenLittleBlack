@@ -43,11 +43,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
+* <a href='http://zhuanlan.zhihu.com/p/687928845?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>技术神秘化的去魅：Sora关键技术逆向工程图解</a> - Wed, 20 Mar 2024 11:33:48 +0800
 * <a href='http://www.zhihu.com/question/648513817/answer/3430586920?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如何评价《沙丘 2》导演维伦纽瓦与陈思诚「造最真实的梦」主题对谈？</a> - Fri, 15 Mar 2024 12:17:16 +0800
 * <a href='http://www.zhihu.com/question/310112318/answer/3407403779?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>为什么会有深湖比深海更可怕这种说法？</a> - 
 * <a href='http://www.zhihu.com/question/647447394/answer/3424893873?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>电影《沙丘 2》怎么样，符合你的预期吗？</a> - Mon, 11 Mar 2024 14:57:03 +0800
 * <a href='http://zhuanlan.zhihu.com/p/672689713?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>芯片生态的竞争逻辑</a> - 
-* <a href='http://www.zhihu.com/question/472895327/answer/3414232629?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>清华大学、北京大学的学生，都自信吗？</a> - 
 <!-- END_SECTION:blog -->
 
 </td>
