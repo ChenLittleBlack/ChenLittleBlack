@@ -43,11 +43,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
+* <a href='http://www.zhihu.com/question/28183674/answer/3433303413?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>对于吉他来说，该如何学习音阶？</a> - 
 * <a href='http://www.zhihu.com/question/20899613/answer/2771357290?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>玉其实是不是相似于钻石，也是一场营销而已？</a> - Wed, 27 Mar 2024 17:12:25 +0800
 * <a href='http://www.zhihu.com/question/363545213/answer/3437805919?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>铁器普及之前农业生产是怎么进行的?</a> - Mon, 25 Mar 2024 16:21:44 +0800
 * <a href='http://www.zhihu.com/question/649069727/answer/3434869485?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>最多可以找到几阶的汉字正交拉丁方阵？</a> - 
 * <a href='http://zhuanlan.zhihu.com/p/687928845?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>技术神秘化的去魅：Sora关键技术逆向工程图解</a> - Wed, 20 Mar 2024 11:33:48 +0800
-* <a href='http://www.zhihu.com/question/648513817/answer/3430586920?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如何评价《沙丘 2》导演维伦纽瓦与陈思诚「造最真实的梦」主题对谈？</a> - Fri, 15 Mar 2024 12:17:16 +0800
 <!-- END_SECTION:blog -->
 
 </td>
