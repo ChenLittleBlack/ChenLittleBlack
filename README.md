@@ -43,11 +43,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
+* <a href='http://zhuanlan.zhihu.com/p/692375007?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>请调频至A人专属电台！！</a> - Mon, 15 Apr 2024 15:02:05 +0800
+* <a href='http://zhuanlan.zhihu.com/p/688783714?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>社群公告</a> - Mon, 15 Apr 2024 15:01:49 +0800
 * <a href='http://zhuanlan.zhihu.com/p/690008063?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>中国西安《小果酱》画稿展</a> - Wed, 10 Apr 2024 14:43:56 +0800
 * <a href='http://zhuanlan.zhihu.com/p/690686329?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>灯塔之下，科学璀璨</a> - Wed, 10 Apr 2024 14:42:18 +0800
 * <a href='http://www.zhihu.com/question/28183674/answer/3433303413?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>对于吉他来说，该如何学习音阶？</a> - 
-* <a href='http://www.zhihu.com/question/20899613/answer/2771357290?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>玉其实是不是相似于钻石，也是一场营销而已？</a> - Wed, 27 Mar 2024 17:12:25 +0800
-* <a href='http://www.zhihu.com/question/363545213/answer/3437805919?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>铁器普及之前农业生产是怎么进行的?</a> - Mon, 25 Mar 2024 16:21:44 +0800
 <!-- END_SECTION:blog -->
 
 </td>
