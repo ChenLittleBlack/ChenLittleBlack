@@ -43,11 +43,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
+* <a href='http://www.zhihu.com/question/320439466/answer/3225146759?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>火灾之后的巴黎圣母院，应该完全按古迹原样修复，还是应该根据现代建筑的技术加入新的元素？</a> - Mon, 22 Apr 2024 12:04:26 +0800
 * <a href='http://www.zhihu.com/question/638573300/answer/3456237662?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>什么叫中国人的浪漫？</a> - Fri, 19 Apr 2024 15:38:53 +0800
 * <a href='http://zhuanlan.zhihu.com/p/693265689?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>大模型时代的芯片机遇与未来 | 知乎AI先行者沙龙</a> - 
 * <a href='http://zhuanlan.zhihu.com/p/692301130?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>双重A的我：ADHD、ASD以及人生滑稽剧</a> - 
 * <a href='http://www.zhihu.com/question/340323059/answer/2970744309?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>两端固定的纸张拱起所成曲线的方程是什么？</a> - 
-* <a href='http://www.zhihu.com/question/339153862/answer/3025074075?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>《城市:天际线》怎么布局比较好？</a> - 
 <!-- END_SECTION:blog -->
 
 </td>
