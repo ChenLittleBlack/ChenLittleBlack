@@ -43,11 +43,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
+* <a href='http://zhuanlan.zhihu.com/p/673888668?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>你管这破玩意叫指针？</a> - Sat, 11 May 2024 11:57:41 +0800
+* <a href='http://www.zhihu.com/question/654055226/answer/3478750257?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>若由你来提名一幅能参加「名画PK大赛」的美术画作，你会挑哪张呢？</a> - Sat, 11 May 2024 11:32:52 +0800
 * <a href='http://www.zhihu.com/question/655546193/answer/3493810288?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>都说民国继承了清朝的法统，那么清朝的法统又源于何处？</a> - Fri, 10 May 2024 18:09:30 +0800
 * <a href='http://www.zhihu.com/question/518718046/answer/3460213728?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>《艾尔登法环》到底好不好玩？</a> - Fri, 10 May 2024 11:07:12 +0800
 * <a href='http://www.zhihu.com/question/320439466/answer/3225146759?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>火灾之后的巴黎圣母院，应该完全按古迹原样修复，还是应该根据现代建筑的技术加入新的元素？</a> - Mon, 22 Apr 2024 12:04:26 +0800
-* <a href='http://www.zhihu.com/question/638573300/answer/3456237662?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>什么叫中国人的浪漫？</a> - Fri, 19 Apr 2024 15:38:53 +0800
-* <a href='http://zhuanlan.zhihu.com/p/693265689?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>大模型时代的芯片机遇与未来 | 知乎AI先行者沙龙</a> - 
 <!-- END_SECTION:blog -->
 
 </td>
