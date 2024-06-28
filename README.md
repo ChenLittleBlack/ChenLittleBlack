@@ -43,11 +43,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
-* <a href='http://zhuanlan.zhihu.com/p/658883010?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>《Finding Paradise》完结感想</a> - Wed, 26 Jun 2024 20:02:13 +0800
-* <a href='http://zhuanlan.zhihu.com/p/686507431?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>纸与笔的幻想碰撞 剑与魔法的旖丽之歌——漫谈TRPG与电子游戏发展</a> - Wed, 26 Jun 2024 17:48:06 +0800
-* <a href='http://www.zhihu.com/question/645289134/answer/3405598809?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>你对艾尔登法环《黄金树幽影》新角色穿刺者梅瑟莫有何评价？</a> - Wed, 26 Jun 2024 16:04:23 +0800
-* <a href='http://www.zhihu.com/question/479719590/answer/3366241612?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>你心目中最好的十款单机游戏是什么？</a> - Wed, 26 Jun 2024 16:02:48 +0800
-* <a href='http://www.zhihu.com/question/479719590/answer/3500845768?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>你心目中最好的十款单机游戏是什么？</a> - Wed, 26 Jun 2024 16:02:12 +0800
+* <a href='http://www.zhihu.com/question/659675567/answer/3543096253?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>为什么燃油车很少刹车失灵，而新能源汽车刹车失灵概率高，这是什么原因？</a> - 
+* <a href='http://www.zhihu.com/question/527929084/answer/2623487818?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如何评价《艾尔登法环》的简体中文翻译水平？</a> - 
+* <a href='http://www.zhihu.com/question/659503755/answer/3538964874?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>《艾尔登法环》DLC黄金树幽影媒体评分再度爆棚，你的具体游玩体验是怎样的呢？</a> - 
+* <a href='http://www.zhihu.com/question/659613928/answer/3543240677?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如何评价艾尔登法环DLC《黄金树幽影》好评率65%，评价跌至褒贬不一，并且仍有下降趋势？</a> - 
+* <a href='http://www.zhihu.com/question/659764342/answer/3540699906?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>宫崎英高近期表示《艾尔登法环》的成功离不开高难度，对此观点你如何评价？</a> - 
 <!-- END_SECTION:blog -->
 
 </td>
