@@ -43,11 +43,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
+* <a href='http://zhuanlan.zhihu.com/p/705650067?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>姜萍事件的疑点分析</a> - Fri, 28 Jun 2024 16:55:12 +0800
+* <a href='http://www.zhihu.com/question/518457201/answer/2393983068?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>游戏《艾尔登法环》中有哪些乍一看没什么，细想想却很可悲的设定？</a> - Fri, 28 Jun 2024 13:47:40 +0800
+* <a href='http://www.zhihu.com/question/659834846/answer/3544334514?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>《艾尔登法环》新DLC究竟讲了一个什么故事？</a> - Fri, 28 Jun 2024 11:51:46 +0800
 * <a href='http://www.zhihu.com/question/659675567/answer/3543096253?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>为什么燃油车很少刹车失灵，而新能源汽车刹车失灵概率高，这是什么原因？</a> - 
 * <a href='http://www.zhihu.com/question/527929084/answer/2623487818?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如何评价《艾尔登法环》的简体中文翻译水平？</a> - 
-* <a href='http://www.zhihu.com/question/659503755/answer/3538964874?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>《艾尔登法环》DLC黄金树幽影媒体评分再度爆棚，你的具体游玩体验是怎样的呢？</a> - 
-* <a href='http://www.zhihu.com/question/659613928/answer/3543240677?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如何评价艾尔登法环DLC《黄金树幽影》好评率65%，评价跌至褒贬不一，并且仍有下降趋势？</a> - 
-* <a href='http://www.zhihu.com/question/659764342/answer/3540699906?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>宫崎英高近期表示《艾尔登法环》的成功离不开高难度，对此观点你如何评价？</a> - 
 <!-- END_SECTION:blog -->
 
 </td>
