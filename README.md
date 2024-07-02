@@ -43,11 +43,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
+* <a href='http://zhuanlan.zhihu.com/p/705619635?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>二次元游戏的内在困境：服务型游戏为何在“服务”上翻车？</a> - Mon, 01 Jul 2024 11:21:21 +0800
 * <a href='http://zhuanlan.zhihu.com/p/705650067?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>姜萍事件的疑点分析</a> - Fri, 28 Jun 2024 16:55:12 +0800
 * <a href='http://www.zhihu.com/question/518457201/answer/2393983068?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>游戏《艾尔登法环》中有哪些乍一看没什么，细想想却很可悲的设定？</a> - Fri, 28 Jun 2024 13:47:40 +0800
 * <a href='http://www.zhihu.com/question/659834846/answer/3544334514?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>《艾尔登法环》新DLC究竟讲了一个什么故事？</a> - Fri, 28 Jun 2024 11:51:46 +0800
 * <a href='http://www.zhihu.com/question/659675567/answer/3543096253?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>为什么燃油车很少刹车失灵，而新能源汽车刹车失灵概率高，这是什么原因？</a> - 
-* <a href='http://www.zhihu.com/question/527929084/answer/2623487818?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如何评价《艾尔登法环》的简体中文翻译水平？</a> - 
 <!-- END_SECTION:blog -->
 
 </td>
