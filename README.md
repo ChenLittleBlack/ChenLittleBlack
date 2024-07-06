@@ -43,11 +43,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
+* <a href='http://www.zhihu.com/question/653840396/answer/3476843609?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>单机模拟经营游戏制作过程中如何保证作品对玩家有持续的激励？</a> - Fri, 05 Jul 2024 15:08:31 +0800
+* <a href='http://www.zhihu.com/question/355415817/answer/3551138685?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>押井守的攻壳机动队为什么会有大量的中国元素？</a> - Fri, 05 Jul 2024 12:09:15 +0800
+* <a href='http://zhuanlan.zhihu.com/p/610734290?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>游戏策划、心得、与告别</a> - Fri, 05 Jul 2024 10:14:05 +0800
 * <a href='http://zhuanlan.zhihu.com/p/706798135?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>技术宅宣言：为什么二次元代表了一个加速主义未来，以及米哈游如何预示了御宅族的终结</a> - 
 * <a href='http://www.zhihu.com/question/659834846/answer/3548934396?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>《艾尔登法环》新DLC究竟讲了一个什么故事？</a> - Wed, 03 Jul 2024 14:50:54 +0800
-* <a href='http://www.zhihu.com/question/660364555/answer/3549459178?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>高考毕业后做一款 gal 现实吗 ？</a> - Wed, 03 Jul 2024 14:48:10 +0800
-* <a href='http://www.zhihu.com/question/528511559/answer/3549921144?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>Steam游戏有什么推荐?</a> - Wed, 03 Jul 2024 11:53:09 +0800
-* <a href='http://www.zhihu.com/question/520542675/answer/3372050234?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>《艾尔登法环》里谁杀了主角的女巫？</a> - 
 <!-- END_SECTION:blog -->
 
 </td>
