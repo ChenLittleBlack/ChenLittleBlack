@@ -43,11 +43,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
-* <a href='http://www.zhihu.com/question/30893253/answer/3260938008?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>信长之野望系列中织田信长的画风是否越来越像西方人，为什么？</a> - Mon, 08 Jul 2024 15:03:16 +0800
-* <a href='http://zhuanlan.zhihu.com/p/705941622?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>舍不得删的经典！20款让你欲罢不能的Steam游戏</a> - Mon, 08 Jul 2024 10:09:35 +0800
-* <a href='http://www.zhihu.com/question/653840396/answer/3476843609?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>单机模拟经营游戏制作过程中如何保证作品对玩家有持续的激励？</a> - Fri, 05 Jul 2024 15:08:31 +0800
-* <a href='http://www.zhihu.com/question/355415817/answer/3551138685?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>押井守的攻壳机动队为什么会有大量的中国元素？</a> - Fri, 05 Jul 2024 12:09:15 +0800
-* <a href='http://zhuanlan.zhihu.com/p/610734290?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>游戏策划、心得、与告别</a> - Fri, 05 Jul 2024 10:14:05 +0800
+* <a href='http://www.zhihu.com/question/317563487/answer/941571637?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如何给《只狼》的BOSS难度排名？</a> - Wed, 10 Jul 2024 18:40:06 +0800
+* <a href='http://www.zhihu.com/question/654134922/answer/3517090698?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>骑行时需要怎么保持正确的呼吸方法？</a> - Wed, 10 Jul 2024 16:11:40 +0800
+* <a href='http://zhuanlan.zhihu.com/p/707829419?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>高温天气的好与坏：耐热训练，启动</a> - Wed, 10 Jul 2024 16:05:44 +0800
+* <a href='http://www.zhihu.com/question/517963071/answer/2427626562?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>《艾尔登法环》（Elden Ring）讲了一个怎样的故事?</a> - Wed, 10 Jul 2024 12:03:04 +0800
+* <a href='http://www.zhihu.com/question/67521005/answer/3228605632?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>各位桌游大神一般去哪找桌游中文规则书？</a> - Wed, 10 Jul 2024 10:40:13 +0800
 <!-- END_SECTION:blog -->
 
 </td>
