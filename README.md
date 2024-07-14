@@ -43,11 +43,7 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
-* <a href='http://www.zhihu.com/question/582923472/answer/2894656134?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>买游戏机 Steam Deck 和 Switch 该怎么选？</a> - 
-* <a href='http://zhuanlan.zhihu.com/p/708149469?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>【The K 聊汽车安全（2）】汽车工程是如何进行人体伤害评价的？</a> - 
-* <a href='http://www.zhihu.com/question/317563487/answer/941571637?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如何给《只狼》的BOSS难度排名？</a> - Wed, 10 Jul 2024 18:40:06 +0800
-* <a href='http://www.zhihu.com/question/654134922/answer/3517090698?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>骑行时需要怎么保持正确的呼吸方法？</a> - Wed, 10 Jul 2024 16:11:40 +0800
-* <a href='http://zhuanlan.zhihu.com/p/707829419?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>高温天气的好与坏：耐热训练，启动</a> - Wed, 10 Jul 2024 16:05:44 +0800
+
 <!-- END_SECTION:blog -->
 
 </td>
