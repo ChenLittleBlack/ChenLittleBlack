@@ -43,11 +43,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
+* <a href='http://zhuanlan.zhihu.com/p/706431098?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>艾尔登法环DLC剧情解析：你不知道的黄金树之影（上）</a> - Fri, 19 Jul 2024 18:26:01 +0800
+* <a href='http://zhuanlan.zhihu.com/p/464771892?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>游戏 UI 谈话会</a> - Fri, 19 Jul 2024 15:08:15 +0800
 * <a href='http://www.zhihu.com/question/661344453/answer/3563870825?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>独立游戏《曼尼汉堡店》在中国莫名奇妙破圈，如何评价独游“墙外开花墙内香”的这种现象？</a> - 
 * <a href='http://zhuanlan.zhihu.com/p/709153865?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>面对新技术浪潮，如何找到好的产品落地方向｜AI 先行者沙龙圆桌实录</a> - 
 * <a href='http://zhuanlan.zhihu.com/p/709181162?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>MoonBit: 大模型时代下的编程语言探索</a> - 
-* <a href='http://www.zhihu.com/question/656773603/answer/3510443442?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>对于《刺客信条：起源》中所展示的古埃及，你作何评价？</a> - Mon, 15 Jul 2024 17:55:33 +0800
-* <a href='http://www.zhihu.com/question/661363752/answer/3559991405?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>钢铁雄心4  非作战状态时，部队的装备损耗怎么看？</a> - Mon, 15 Jul 2024 17:51:25 +0800
 <!-- END_SECTION:blog -->
 
 </td>
