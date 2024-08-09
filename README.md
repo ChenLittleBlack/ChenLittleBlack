@@ -43,11 +43,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
+* <a href='http://www.zhihu.com/question/663593723/answer/3586049874?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>运动员在备战奥运赛事的日常训练中，有哪些意想不到的新科技加持呢？</a> - 
+* <a href='http://zhuanlan.zhihu.com/p/713295701?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>奥运乒乓球决赛，为什么莫雷加德的衣服干爽而樊振东却大汗满身？</a> - 
+* <a href='http://www.zhihu.com/question/662656425/answer/3580406010?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>看起来高难度的奥运项目是如何成为大众日常运动项目的？</a> - 
+* <a href='http://www.zhihu.com/question/663207247/answer/3581993787?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>樊振东 0-2 落后选择更换球衣，随后找回状态完成大逆转，更换球衣从战术和心理层面有多大影响？</a> - 
 * <a href='http://www.zhihu.com/question/29066139/answer/3307647382?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>游戏《上古卷轴5》称得上为「神作」吗？</a> - 
-* <a href='http://zhuanlan.zhihu.com/p/673425527?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>「回归性原理：交界地就是地球村！」——论《艾尔登法环》中的现实原型(新大陆篇)</a> - 
-* <a href='http://www.zhihu.com/question/629121053/answer/3528591340?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>马拉松职业运动员一场比赛平均心率这么高是怎么顶下全程的？</a> - Mon, 05 Aug 2024 17:51:40 +0800
-* <a href='http://www.zhihu.com/question/663449911/answer/3584072120?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>看樊振东夺冠比赛，在为他喊加油的同时，我有一个疑问，是外国运动员不出汗，还是中国队的衣服不吸汗？</a> - Mon, 05 Aug 2024 12:03:39 +0800
-* <a href='http://www.zhihu.com/question/662656425/answer/3582664807?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>看起来高难度的奥运项目是如何成为大众日常运动项目的？</a> - Mon, 05 Aug 2024 10:34:51 +0800
 <!-- END_SECTION:blog -->
 
 </td>
