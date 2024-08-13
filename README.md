@@ -43,11 +43,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
+* <a href='http://www.zhihu.com/question/664002660/answer/3590919116?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>本届奥运会上有没有人完成，足以吊打一个时代的成就？</a> - Mon, 12 Aug 2024 14:20:33 +0800
 * <a href='http://www.zhihu.com/question/661959444/answer/3567142996?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>幼儿园放假，想带孩子练习跳绳，但总是学不会，有什么简单易懂的指导吗？</a> - Fri, 09 Aug 2024 16:43:53 +0800
 * <a href='http://www.zhihu.com/question/663593723/answer/3586049874?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>运动员在备战奥运赛事的日常训练中，有哪些意想不到的新科技加持呢？</a> - 
 * <a href='http://zhuanlan.zhihu.com/p/713295701?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>奥运乒乓球决赛，为什么莫雷加德的衣服干爽而樊振东却大汗满身？</a> - 
 * <a href='http://www.zhihu.com/question/662656425/answer/3580406010?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>看起来高难度的奥运项目是如何成为大众日常运动项目的？</a> - 
-* <a href='http://www.zhihu.com/question/663207247/answer/3581993787?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>樊振东 0-2 落后选择更换球衣，随后找回状态完成大逆转，更换球衣从战术和心理层面有多大影响？</a> - 
 <!-- END_SECTION:blog -->
 
 </td>
