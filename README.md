@@ -43,11 +43,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
+* <a href='http://zhuanlan.zhihu.com/p/714533901?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>创业一年，人间三年</a> - Wed, 14 Aug 2024 22:14:32 +0800
+* <a href='http://zhuanlan.zhihu.com/p/714038743?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>你好！新同学｜2024 开学季活动正式启动🔥</a> - Wed, 14 Aug 2024 19:52:23 +0800
+* <a href='http://zhuanlan.zhihu.com/p/714400366?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>从零开始制作一个属于你自己的GPU | 基于FPGA的图形加速器实现原理</a> - Wed, 14 Aug 2024 11:14:21 +0800
 * <a href='http://www.zhihu.com/question/664002660/answer/3590919116?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>本届奥运会上有没有人完成，足以吊打一个时代的成就？</a> - Mon, 12 Aug 2024 14:20:33 +0800
 * <a href='http://www.zhihu.com/question/661959444/answer/3567142996?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>幼儿园放假，想带孩子练习跳绳，但总是学不会，有什么简单易懂的指导吗？</a> - Fri, 09 Aug 2024 16:43:53 +0800
-* <a href='http://www.zhihu.com/question/663593723/answer/3586049874?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>运动员在备战奥运赛事的日常训练中，有哪些意想不到的新科技加持呢？</a> - 
-* <a href='http://zhuanlan.zhihu.com/p/713295701?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>奥运乒乓球决赛，为什么莫雷加德的衣服干爽而樊振东却大汗满身？</a> - 
-* <a href='http://www.zhihu.com/question/662656425/answer/3580406010?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>看起来高难度的奥运项目是如何成为大众日常运动项目的？</a> - 
 <!-- END_SECTION:blog -->
 
 </td>
