@@ -43,11 +43,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
+* <a href='http://www.zhihu.com/question/666669754/answer/3621783069?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>在战锤世界中，四邪神是通过什么方法蛊惑忠诚派星际战士入坑的？</a> - Wed, 11 Sep 2024 11:50:22 +0800
 * <a href='http://www.zhihu.com/question/666360932/answer/3620459503?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如何欣赏《黑神话：悟空》中极其精致的铠甲披挂，它符合中国历史上的真实甲胄设计吗？</a> - Mon, 09 Sep 2024 18:06:30 +0800
 * <a href='http://www.zhihu.com/question/658731240/answer/3617442408?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>《黑神话：悟空》讲了一个什么故事？</a> - Mon, 09 Sep 2024 10:59:25 +0800
 * <a href='http://zhuanlan.zhihu.com/p/718959820?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>2024 知乎创作者盐沙龙·成都站活动回顾</a> - Mon, 09 Sep 2024 10:54:06 +0800
 * <a href='http://zhuanlan.zhihu.com/p/718237324?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>【长文】24.8~京都大学数据科学/东京大学情报理工CS/东京大学复杂理工~合格经验</a> - 
-* <a href='http://www.zhihu.com/question/664774003/answer/3604907698?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如何评价《黑神话：悟空》的战斗设计？</a> - 
 <!-- END_SECTION:blog -->
 
 </td>
