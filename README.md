@@ -43,11 +43,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
+* <a href='http://www.zhihu.com/question/378008009/answer/1468710463?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如何评价游戏《废土3》？</a> - Mon, 23 Sep 2024 19:32:53 +0800
+* <a href='http://www.zhihu.com/question/463856156/answer/1937948036?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>有人可以把《战锤2：全面战争》的背景故事和人物关系讲清楚吗？</a> - Mon, 23 Sep 2024 16:37:07 +0800
+* <a href='http://zhuanlan.zhihu.com/p/720106482?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>OpenAI o1 self-play RL 技术路线推演</a> - Mon, 23 Sep 2024 13:59:41 +0800
 * <a href='http://zhuanlan.zhihu.com/p/690749704?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>给独立游戏制作人的进阶建议</a> - Fri, 20 Sep 2024 11:58:08 +0800
 * <a href='http://zhuanlan.zhihu.com/p/718886088?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>黑神话悟空：斗罢艰险，能否出发？</a> - Fri, 20 Sep 2024 11:52:14 +0800
-* <a href='http://www.zhihu.com/question/666739101/answer/3629869440?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>方励为拍摄《里斯本丸沉没》「砸锅卖铁」是否值得？这部电影会产生多大影响？</a> - 
-* <a href='http://zhuanlan.zhihu.com/p/667847831?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>各自精彩——《无敌号》原著与游戏情节对比</a> - 
-* <a href='http://www.zhihu.com/question/666094054/answer/3625626684?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>大众对攀岩运动有哪些误解？</a> - Sun, 15 Sep 2024 08:17:07 +0800
 <!-- END_SECTION:blog -->
 
 </td>
