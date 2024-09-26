@@ -43,11 +43,11 @@
 <td align="center" valign="middle">
 
 <!-- START_SECTION:blog -->
+* <a href='http://www.zhihu.com/question/19700567/answer/3635928923?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>已经掌握独立建造第三代核电站的技术的国家有哪些？</a> - Wed, 25 Sep 2024 18:30:53 +0800
+* <a href='http://zhuanlan.zhihu.com/p/721952915?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>Reverse-o1:OpenAI o1原理逆向工程图解</a> - Wed, 25 Sep 2024 11:23:03 +0800
 * <a href='http://www.zhihu.com/question/23473414/answer/3634688765?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>你一直坚持热爱的事情是什么？坚持了多久？</a> - 
 * <a href='http://www.zhihu.com/question/19825959/answer/3634614274?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>中国制造能否诞生「奢侈品」？</a> - 
 * <a href='http://zhuanlan.zhihu.com/p/24856060?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>独立游戏在中国 插曲：手游版号办理完全攻略</a> - 
-* <a href='http://www.zhihu.com/question/664775480/answer/3634435096?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如何评价《黑神话：悟空》这款游戏？它到底好不好玩？</a> - 
-* <a href='http://www.zhihu.com/question/378008009/answer/1468710463?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title' target='_blank'>如何评价游戏《废土3》？</a> - Mon, 23 Sep 2024 19:32:53 +0800
 <!-- END_SECTION:blog -->
 
 </td>
